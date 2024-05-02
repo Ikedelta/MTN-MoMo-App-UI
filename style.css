@@ -158,6 +158,8 @@ span{
 
 .footer{
   background-color: white;
+    position: sticky;
+    bottom: 0px;
 }
 
 .footercontainer{
